@@ -1,0 +1,6 @@
+Gerbers/
+*-backups/
+
+fp-info-cache
+
+*.zip
